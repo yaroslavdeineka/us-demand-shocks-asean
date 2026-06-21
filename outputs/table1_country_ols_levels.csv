@@ -1,0 +1,5 @@
+Country,beta,R_squared,r_pearson,p_value,N,Trade_Dep_pct
+Thailand,0.0587,0.872,0.934,< 0.001 ***,228,66.2
+Malaysia,0.038,0.872,0.934,< 0.001 ***,228,95.3
+Singapore,0.0336,0.872,0.934,< 0.001 ***,228,196.5
+Philippines,0.0139,0.213,0.461,< 0.001 ***,228,34.6
